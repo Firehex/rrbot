@@ -1,6 +1,8 @@
+# ⚠️! USE WITH CAUTION !⚠️ #
+
 Vibed with Claude Code 🤖
 
-# Russian Roulette Discord Bot
+## Russian Roulette Discord Bot
 
 A Discord bot that lets you play Russian Roulette with server members. Target someone with `!rr @user` and there's a 1/6 chance they get banned from the server.
 
